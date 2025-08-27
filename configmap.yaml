@@ -3,5 +3,5 @@ data:
   key1: value1
   key2: value2
 kind: ConfigMap
-metadata:
+metadata1:
   name: nginx
